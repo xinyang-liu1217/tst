@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: '#Home'
     weight: 10
 
   - name: News
