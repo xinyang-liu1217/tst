@@ -22,7 +22,7 @@ subtitle = "Welcome to CQM<sup>2</sup> Group!"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "navy"
   
   # Background gradient.
   gradient_start = "DarkSkyBlue"
@@ -49,38 +49,32 @@ subtitle = "Welcome to CQM<sup>2</sup> Group!"
  # CSS class.
  css_class = ""
 +++
+<!--- ![WLI](http://shi.buaa.edu.cn/__local/1/D3/F2/D6A6E5196DB06D04CA72D378F8E_9BFD9043_670B.jpeg) --->
+<!--- <p align='center'> --->
+<!--- <img align='left' src='/img/KeyImage.png' width='230' hspace='30' /> --->
+<!--- <img align='left' src='/img/KeyImage3.png' width='320' hspace='30'/> --->
+<!--- <img align='left' src='/img/KeyImage2.png' width='405' hspace='30'/> --->
+<!--- <p/> --->
+<!--- <br/><br/><br/><br/><br/><br/><br/><br/> --->
+<!--- <p/> --->
 
-## 👋 Welcome to the Academic Template
+<img align='right' src='/img/group.png' width='300' hspace='24' />
+Our research group at [Beihang University](https://www.buaa.edu.cn) is focusing on **many-body physics** such as correlation effects and topological phases in **quantum matter**. Strong interactions among atomic particles can lead to  materials, such as some high-temperature superconductors, with unusual electronic and magnetic properties. We aim to develop quantum many-body simulation techniques, e.g., **tensor networks**, **renormalization group**, and **deep learning techniques**, that provide reliable and accurate numerical access to thermal and dynamical properties of correlated systems. With state-of-the-art methods, we explore novel states of matter and reveal underlying manybody theory, in correlated materials that could possibily lead to intriguing applications in future quantum technology.
 
-The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
+***
 
-[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+<img align='right' src='/img/KeyImage.png' width='300' hspace='24' />
 
-[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
+## Research:
++ Tensor Renormalization Group Methods and its Application in Quantum Many-body Physics
++ Frustrated Quantum Magnets and Emergent Collective Phenomena
++ Strongly Correlated Electrons and Superconductivity
++ Quantum Spin Chain and Magnetocaloric Effects
 
-- 👉 [**Get Started**](https://wowchemy.com/docs/install/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
+****
 
-## Crowd-funded open-source software
+## Projects:
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
-
-## You're looking at a Wowchemy _widget_
-
-{{% callout note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-**To remove this section, delete `content/home/demo.md`.**
-{{% /callout %}}
-
-## Get inspired
-
-[Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/).
+- Non-abelian symmetry and tensor networks, NSFC Junior Project: 11504014, 2016.01-2018.12
+- Quantum Manybody Computation Methods and Applications, NSFC Key Project: 11834014, 2019.01-2022.12
+- Thermal Tensor Networks for Frustrated Quantum Magnets, NSFC General Project: 11974036, 2020.01-2023.12
