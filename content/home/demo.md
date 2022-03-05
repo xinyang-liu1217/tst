@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Template"
-subtitle = ""
+title = "Correlated Quantum Matter and Materials"
+subtitle = "Welcome to CQM<sup>2</sup> Group!"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  # gradient_start = ""
+  # gradient_end = "ForestGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
