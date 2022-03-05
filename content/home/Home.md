@@ -22,7 +22,7 @@ subtitle = "Welcome to CQM<sup>2</sup> Group!"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "grey"
+   color = "grey"
   
   # Background gradient.
   # gradient_start = "DarkSkyBlue"
