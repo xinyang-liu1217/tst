@@ -34,7 +34,7 @@ header:
     enable: true
     align: l
     show_logo: true
-    show_language: false
+    show_language: true 
     show_day_night: true
     show_search: true
     highlight_active_link: true
@@ -44,9 +44,9 @@ footer:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: true
-      allow_derivatives: false
+      allow_derivatives: true 
       share_alike: true
-      allow_commercial: false
+      allow_commercial: true
 
 # Localization
 
