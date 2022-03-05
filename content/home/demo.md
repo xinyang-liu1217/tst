@@ -25,8 +25,8 @@ subtitle = "Welcome to CQM<sup>2</sup> Group!"
   # color = "navy"
   
   # Background gradient.
-  # gradient_start = ""
-  # gradient_end = "ForestGreen"
+  gradient_start = "DarkSkyBlue"
+  gradient_end = "SkyBlue"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
