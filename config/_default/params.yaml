@@ -64,17 +64,17 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   diagram:
-    enable: false
+    enable: true 
   privacy_pack:
-    enable: false
+    enable: true 
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: master
   avatar:
-    gravatar: false
+    gravatar: true 
     shape: circle
   comment:
     provider: ''
@@ -89,7 +89,7 @@ features:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: false
+      show_logo: true 
   map:
     provider: ''
     api_key: ''
