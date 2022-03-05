@@ -1,0 +1,12 @@
+---
+title: "Universal Boundary Entropies in Conformal Field Theory: A Quantum Monte Carlo Study"
+date: 2017-09-01
+publishDate: 2020-02-16T23:34:37.724461Z
+authors: ["Wei Tang", "Lei Chen", "Wei Li", "X. C. Xie", "Hong-Hao Tu", "Lei Wang"]
+publication_types: ["2"]
+abstract: "Recently, entropy corrections on nonorientable manifolds such as the Klein bottle are proposed as a universal characterization of critical systems with an emergent conformal field theory (CFT). We show that entropy correction on the Klein bottle can be interpreted as a boundary effect via transforming the Klein bottle into an orientable manifold with nonlocal boundary interactions. The interpretation reveals the conceptual connection of the Klein bottle entropy with the celebrated Affleck-Ludwig entropy in boundary CFT. We propose a generic scheme to extract these universal boundary entropies from quantum Monte Carlo calculation of partition function ratios in lattice models. Our numerical results on the Affleck-Ludwig entropy and Klein bottle entropy for the q-state quantum Potts chains with q=2,3 show excellent agreement with the CFT predictions. For the quantum Potts chain with q=4, the Klein bottle entropy slightly deviates from the CFT prediction, which is possibly due to marginally irrelevant terms in the low-energy effective theory."
+featured: false
+publication: "*Phys. Rev. B*"
+doi: "10.1103/PhysRevB.96.115136"
+---
+
