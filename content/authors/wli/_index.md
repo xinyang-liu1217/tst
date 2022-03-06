@@ -14,11 +14,11 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: School of Physics, Beihang University
-  url: "http://physics.buaa.edu.cn"
+- name: Institute of Theoretical Physics, Chinese Academy of Sciences
+  url: "http://www.itp.cas.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Wei Li is a computational condensed matter physicist working at Beihang University
+bio: Wei Li is a computational condensed matter physicist working at Chinese Academy of Sciences
 
 interests:
 - Quantum Many-body Physics

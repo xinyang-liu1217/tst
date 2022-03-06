@@ -22,13 +22,13 @@ bio:
 
 # List each interest with a dash
 interests:
-- Correlated Electrons
+- Quantum magnets
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
+  - course: B.S. in Applied Physics
+    institution: Beihang University
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:xinyangliu@buaa.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/USERNAME
@@ -54,7 +54,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "xinyangliu@buaa.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
