@@ -67,8 +67,6 @@ subtitle = ""
 
 +++
 
-+ test test test
-
 + 第十六届全国磁学理论会议将于2021年5月22日~25日在扬州会议中心举办，扬州大学承办。[https://mt2020.yzu.edu.cn/](https://mt2020.yzu.edu.cn/)
 
 + Our work "Quantum many-body simulations of the two-dimensional Fermi-Hubbard model in ultracold optical lattices" is published in

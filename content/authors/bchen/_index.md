@@ -51,7 +51,7 @@ email: "bunbun.d.chan@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Former Members
 ---
 My research interest focuses on efficient numerical simulations within the tensor network state ansatz,
 to tackle novel phenomena in quantum manybody systems, including quantum spin liquid, unconventional 
