@@ -80,7 +80,7 @@ subtitle = ""
  
  + Our work "Symmetry-Protected Topological Edge Modes and Emergent Partial Time-Reversal Symmetry Breaking in Open Quantum Many-Body Systems"is published in [Phys. Rev. Lett **126**, 237201](https://doi.org/10.1103/PhysRevLett.126.237201), 9-Jun-2021.
  
-  BIG congratulations to Qiaoyi Li!
+   BIG congratulations to Qiaoyi Li!
 
 + 恭喜高源同学于第十六届全国磁学理论会议中获得优秀墙报奖！！！
 
