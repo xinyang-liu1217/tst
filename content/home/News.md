@@ -67,7 +67,27 @@ subtitle = ""
 
 +++
 
++ Our work "Realization of topological Mott insulator in a twisted bilayer graphene lattice model" is published in [**Nature Communications  12**, 5480 (2021)](https://www.nature.com/articles/s41467-021-25438-1) , 16-Sep-2021.
+
++ 恭喜李涵同学获得北航2021年度 [“研究生十佳”](https://mp.weixin.qq.com/s/EuV1v28eALKo0QIPRHbNhg)！！！
+
++ Our work "Learning the Effective Spin Hamiltonian of a Quantum Magnet" is published in
+[Chin. Phys. Lett **38**, 097502](http://cpl.iphy.ac.cn/10.1088/0256-307X/38/9/097502), 27-Aug-2021.
+
++  Our work "Identification of magnetic interactions and high-field quantum spin liquid in alpha-RuCl<sub>3</sub>" is published in [**Nature Communications  12**, 4007 (2021)](https://www.nature.com/articles/s41467-021-24257-8) , 29-Jun-2021.
+
+ BIG congratulations to Han Li!
+ 
+ + Our work "Symmetry-Protected Topological Edge Modes and Emergent Partial Time-Reversal Symmetry Breaking in Open Quantum Many-Body Systems"is published in [Phys. Rev. Lett **126**, 237201](https://doi.org/10.1103/PhysRevLett.126.237201), 9-Jun-2021.
+ 
+ BIG congratulations to Qiaoyi Li!
+
++ 恭喜高源同学于第十六届全国磁学理论会议中获得优秀墙报奖！！！
+
 + 第十六届全国磁学理论会议将于2021年5月22日~25日在扬州会议中心举办，扬州大学承办。[https://mt2020.yzu.edu.cn/](https://mt2020.yzu.edu.cn/)
+
++ Our work "Phase diagram of the quantum Ising model on a triangular lattice under external field" is published in
+[Phys. Rev. B **103**, 104416](https://doi.org/10.1103/PhysRevB.103.104416), 11-Mar-2021.
 
 + Our work "Quantum many-body simulations of the two-dimensional Fermi-Hubbard model in ultracold optical lattices" is published in
 [Phys. Rev. B **103**, L041107](https://doi.org/10.1103/PhysRevB.103.L041107), 19-Jan-2021.
