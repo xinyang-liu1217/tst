@@ -67,10 +67,11 @@ Strong interactions among atomic particles can lead to  materials, such as some 
 <img align='right' src='/img/KeyImage.png' width='300' hspace='24' />
 
 ## Research:
-+ Tensor Renormalization Group Methods and its Application in Quantum Many-body Physics
-+ Frustrated Quantum Magnets and Emergent Collective Phenomena
-+ Strongly Correlated Electrons and Superconductivity
-+ Quantum Spin Chain and Magnetocaloric Effects
++ Quantum Many-body Theory and Computations
++ Ground-State and Thermal Tensor Networks
++ Frustrated Magnetism and Quantum Spin Liquids
++ Correlated Electrons and Superconductivity
++ Magnetocaloric Quantum Materials
 
 ****
 
