@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Wei Li's Group # Website name
-baseURL: 'http://cqm2itp.com/' # Website URL
+baseURL: 'http://www.cqm2itp.com/' # Website URL
 
 ############################
 ## LANGUAGE
