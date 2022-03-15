@@ -1,12 +1,12 @@
 ---
-title: "Symmetry-Protected Topological Edge Modes and Emergent Partial Time-Reversal Symmetry Breaking in Open Quantum Many-Body Systems"
-date: 2021-06-09
-publishDate: 2021-06-09T12:46:56.123112Z
-authors: ["Zijian Wang", "Qiaoyi Li", "Wei Li", "Zi Cai"]
+title: "Detecting confined and deconfined spinons in dynamical quantum simulations"
+date: 2022-03-11
+publishDate: 2022-03-11T12:46:56.123112Z
+authors: ["Qiaoyi Li", "Jian Cui", "Wei Li"]
 publication_types: ["2"]
-abstract: "Symmetry-protected topological edge modes are one of the most remarkable phenomena in topological physics. Here, we formulate and quantitatively examine the effect of a quantum bath on these topological edge modes. Using the density matrix renormalization group method, we show that the time-reversal symmetry (TRS) plays a special role for an open quantum system, where an emergent partial TRS breaking will result in a TRS-protected topological mode diffusing from the system edge into the bath, thus make it useless for quantum computation."
-featured: True
-publication: "Phys. Rev. Lett."
-doi: "https://doi.org/10.1103/PhysRevLett.126.237201"
+abstract: "Dynamical spin-structure factor (DSF) contains fingerprint information of collective excitations in interacting quantum spin systems. In solid state experiments, DSF can be measured through neutron scatterings. However, it is in general challenging to compute the spectral properties accurately via many-body simulations. Currently, quantum simulation and computation constitute a thriving research field, which are believed to provide a very promising platform for simulating quantum many-body systems. In this paper, we establish a link between the many-body dynamics and quantum simulations by studying the nonequilibrium DSF (nDSF) measured on direct product states, which are accessible in contemporary quantum simulators with Rydberg atoms, superconducting qubits, etc. Based on the many-body calculations of transverse field Ising chains, we find the nDSF can be used to sensitively probe the multispinon continua associated with the two-spinon creation and spinon-antispinon process, etc. Moreover, we further demonstrate that the low-energy spinons can be confined—forming spinon bound states—under a finite longitudinal field. Our results pave the way of quantum simulation and manipulation of fractional excitations in highly entangled quantum many-body systems."
+featured: False
+publication: "Phys. Rev. Research"
+doi: "10.1103/PhysRevResearch.4.013193"
 ---
 
