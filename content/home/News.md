@@ -67,6 +67,8 @@ subtitle = ""
 
 +++
 
++ Workshop on Quantum Many-Body Computation (QMBC) - 2022 will be held in **Liyang on April 15-17, 2022**, organized jointly by the Institute of Physics, Chinese Academy of Sciences (IOP, CAS) and Shanghai Jiao Tong University (SJTU).[http://10thqmbc.cpsjournals.cn](http://10thqmbc.cpsjournals.cn)
+
 + Our work "Realization of topological Mott insulator in a twisted bilayer graphene lattice model" is published in [**Nature Communications  12**, 5480 (2021)](https://www.nature.com/articles/s41467-021-25438-1) , 16-Sep-2021.
 
 + 恭喜李涵同学获得北航2021年度 [“研究生十佳”](https://mp.weixin.qq.com/s/EuV1v28eALKo0QIPRHbNhg)！！！
