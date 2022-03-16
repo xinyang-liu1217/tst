@@ -87,18 +87,11 @@ Our code implementation in PyTorch is publicly available at this [GitHub repo](h
  
 + Our work "Symmetry-Protected Topological Edge Modes and Emergent Partial Time-Reversal Symmetry Breaking in Open Quantum Many-Body Systems"is published in [Phys. Rev. Lett **126**, 237201](https://doi.org/10.1103/PhysRevLett.126.237201), 9-Jun-2021.
 
-+ 恭喜高源同学于第十六届全国磁学理论会议中获得优秀墙报奖.
-
-+ 第十六届全国磁学理论会议将于2021年5月22日~25日在扬州会议中心举办，扬州大学承办[https://mt2020.yzu.edu.cn/](https://mt2020.yzu.edu.cn/).
-
-+ Our work "Phase diagram of the quantum Ising model on a triangular lattice under external field" is published in
-[Phys. Rev. B **103**, 104416](https://doi.org/10.1103/PhysRevB.103.104416), 11-Mar-2021.
-
-+ Our work "Quantum many-body simulations of the two-dimensional Fermi-Hubbard model in ultracold optical lattices" is published in
-[Phys. Rev. B **103**, L041107](https://doi.org/10.1103/PhysRevB.103.L041107), 19-Jan-2021.
-
 + Our work "Evidence of the Berezinskii-Kosterlitz-Thouless phase in a frustrated magnet" is published in [**Nature Communications  11**, 5631 (2020)](https://www.nature.com/articles/s41467-020-19380-x) , 06-Nov-2020, and also selected as [Editor's Highlight](https://www.nature.com/collections/rcdhyvxytb/content/wei-fan) !
 
-
 + Our work "Kosterlitz-Thouless Melting of Magnetic Order in the Triangular Quantum Ising Material TmMgGaO<sub>4</sub>" is published in [**Nature  Communications  11**, 1111 (2020)](https://www.nature.com/articles/s41467-020-14907-8) , 28-Feb-2020.
+
++ Our work "Exponential Thermal Tensor Network Approach for Quantum Lattice Models" is published in 
+[Phys. Rev. X **8**, 031082](https://doi.org/10.1103/PhysRevX.8.031082), 26-Sep-2018.
+
 
