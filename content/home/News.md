@@ -80,7 +80,7 @@ subtitle = ""
  
    BIG congratulations to Han Li!
  
- + Our work "Symmetry-Protected Topological Edge Modes and Emergent Partial Time-Reversal Symmetry Breaking in Open Quantum Many-Body Systems"is published in [Phys. Rev. Lett **126**, 237201](https://doi.org/10.1103/PhysRevLett.126.237201), 9-Jun-2021.
++ Our work "Symmetry-Protected Topological Edge Modes and Emergent Partial Time-Reversal Symmetry Breaking in Open Quantum Many-Body Systems"is published in [Phys. Rev. Lett **126**, 237201](https://doi.org/10.1103/PhysRevLett.126.237201), 9-Jun-2021.
  
    BIG congratulations to Qiao-yi Li!
 
