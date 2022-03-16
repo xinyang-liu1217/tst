@@ -80,6 +80,8 @@ subtitle = ""
  
    BIG congratulations to Han Li!
  
++  Our work "Kondo Holes in the Two-Dimensional Itinerant Ising Ferromagnet Fe3GeTe2"is published in [Nano Lett. 2021, 21, 14, 6117–6123](https://doi.org/10.1021/acs.nanolett.1c01661), 19-Jul-2021.
+ 
 + Our work "Symmetry-Protected Topological Edge Modes and Emergent Partial Time-Reversal Symmetry Breaking in Open Quantum Many-Body Systems"is published in [Phys. Rev. Lett **126**, 237201](https://doi.org/10.1103/PhysRevLett.126.237201), 9-Jun-2021.
  
    BIG congratulations to Qiao-yi Li!
