@@ -28,7 +28,7 @@ education:
   courses:
   - course: B.S. in Applied Physics
     institution: Beihang University
-    year: 2017
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
