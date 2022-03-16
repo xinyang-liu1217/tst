@@ -4,10 +4,8 @@ date: 2019-07-09
 publishDate: 2019-07-09T23:34:37.721012Z
 authors: ["Han Li", "Bin-Bin Chen", "Ziyu Chen", "Jan von Delft", "Andreas Weichselbaum", "Wei Li"]
 publication_types: ["2"]
-abstract: "In this work, we benchmark the well-controlled and numerically accurate exponential thermal tensor renormalization group (XTRG) in the simulation of interacting spin models in two dimensions. Finite temperature introduces a finite thermal correlation length $\xi$, such that for system sizes $L \gg \xi$ finite-size calculations actually simulate the thermodynamic limit. In this paper, we focus on the square lattice Heisenberg antiferromagnet (SLH) and quantum Ising models (QIM) on open and cylindrical geometries up to width W=10. We explore various one-dimensional mapping paths in the matrix product operator (MPO) representation, whose performance is clearly shown to be geometry dependent. We benchmark against quantum Monte Carlo (QMC) data, yet also the series-expansion thermal tensor network results. Thermal properties including the internal energy, specific heat, and spin structure factors, etc. are computed with high precision, obtaining excellent agreement with QMC results. XTRG also allows us to reach remarkably low temperatures. "
-featured: false
+abstract: ""
+featured: False
 publication: "*Phys. Rev. B*"
-tags: ["Statistical Physics", "Condensed Matter & Materials Physics"]
 doi: "https://doi.org/10.1103/PhysRevB.100.045110"
 ---
-
