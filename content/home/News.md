@@ -67,6 +67,8 @@ subtitle = ""
 
 +++
 
++ Our work "Exciton Proliferation and Fate of the Topological Mott Insulator in a Twisted Bilayer Graphene Lattice Model"is published in [Phys. Rev. Lett **126**, 237201](https://doi.org/10.1103/PhysRevLett.128.157201), 12-Apr-2022.
+
 + Workshop on Quantum Many-Body Computation (QMBC) - 2022 will be held in **Liyang on April 15-17, 2022**, [http://10thqmbc.cpsjournals.cn](http://10thqmbc.cpsjournals.cn).
 
 + Our work "Detecting confined and deconfined spinons in dynamical quantum simulations" is published in
