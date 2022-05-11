@@ -67,7 +67,7 @@ subtitle = ""
 
 +++
 
-+ Our work "Exciton Proliferation and Fate of the Topological Mott Insulator in a Twisted Bilayer Graphene Lattice Model"is published in [Phys. Rev. Lett **128**, 157201](https://doi.org/10.1103/PhysRevLett.128.157201), 12-Apr-2022.
++ Our work "Exciton Proliferation and Fate of the Topological Mott Insulator in a Twisted Bilayer Graphene Lattice Model"is published in [**Phys. Rev. Lett** **128**, 157201](https://doi.org/10.1103/PhysRevLett.128.157201), 12-Apr-2022.
 
 + Workshop on Quantum Many-Body Computation (QMBC) - 2022 will be held in **Liyang on April 15-17, 2022**, [http://10thqmbc.cpsjournals.cn](http://10thqmbc.cpsjournals.cn).
 
@@ -76,7 +76,7 @@ subtitle = ""
 
 + Our work "Realization of topological Mott insulator in a twisted bilayer graphene lattice model" is published in [**Nature Communications  12**, 5480 (2021)](https://www.nature.com/articles/s41467-021-25438-1) , 16-Sep-2021. 
 
-+ 恭喜李涵同学获得北航2021年度 [“研究生十佳”](https://mp.weixin.qq.com/s/EuV1v28eALKo0QIPRHbNhg).
++ 祝贺李涵同学获得北航2021年度 [“研究生十佳”](https://mp.weixin.qq.com/s/EuV1v28eALKo0QIPRHbNhg).
 
 + Our work "Learning the Effective Spin Hamiltonian of a Quantum Magnet" is published in
 [Chin. Phys. Lett **38**, 097502](http://cpl.iphy.ac.cn/10.1088/0256-307X/38/9/097502), 27-Aug-2021.
@@ -87,13 +87,13 @@ Our code implementation in PyTorch is publicly available at this [GitHub repo](h
  
 +  Our work "Kondo Holes in the Two-Dimensional Itinerant Ising Ferromagnet Fe3GeTe2"is published in [Nano Lett. 2021, 21, 14, 6117–6123](https://doi.org/10.1021/acs.nanolett.1c01661), 19-Jul-2021.
  
-+ Our work "Symmetry-Protected Topological Edge Modes and Emergent Partial Time-Reversal Symmetry Breaking in Open Quantum Many-Body Systems"is published in [Phys. Rev. Lett **126**, 237201](https://doi.org/10.1103/PhysRevLett.126.237201), 9-Jun-2021.
++ Our work "Symmetry-Protected Topological Edge Modes and Emergent Partial Time-Reversal Symmetry Breaking in Open Quantum Many-Body Systems"is published in [**Phys. Rev. Lett** **126**, 237201](https://doi.org/10.1103/PhysRevLett.126.237201), 9-Jun-2021.
 
 + Our work "Evidence of the Berezinskii-Kosterlitz-Thouless phase in a frustrated magnet" is published in [**Nature Communications  11**, 5631 (2020)](https://www.nature.com/articles/s41467-020-19380-x) , 06-Nov-2020, and also selected as [Editor's Highlight](https://www.nature.com/collections/rcdhyvxytb/content/wei-fan) !
 
 + Our work "Kosterlitz-Thouless Melting of Magnetic Order in the Triangular Quantum Ising Material TmMgGaO<sub>4</sub>" is published in [**Nature  Communications  11**, 1111 (2020)](https://www.nature.com/articles/s41467-020-14907-8) , 28-Feb-2020.
 
 + Our work "Exponential Thermal Tensor Network Approach for Quantum Lattice Models" is published in 
-[Phys. Rev. X **8**, 031082](https://doi.org/10.1103/PhysRevX.8.031082), 26-Sep-2018.
+[**Phys. Rev. X** **8**, 031082](https://doi.org/10.1103/PhysRevX.8.031082), 26-Sep-2018.
 
 
