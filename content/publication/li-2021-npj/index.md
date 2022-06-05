@@ -1,5 +1,5 @@
 ---
-title: "Spin dynamics and Griffiths singularity in the random quantum Ising magnet PrTiNbO<sub>6</sub>"
+title: "Spin dynamics and Griffiths singularity in the random quantum Ising magnet PrTiNbO6"
 date: 2021-03-31
 publishDate: 2021-03-31T12:46:56.123112Z
 authors: ["Yuesheng Li","Qiaoyi Li", "Wei Li","Tao Liu", "David J. Voneshen", "Pabitra K. Biswas ", "Devashibhai Adroja"]
