@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Bachelor Student
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
-- name: Beihang University 
+- name: ITP
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,9 +26,10 @@ interests:
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
+  - course: B.S. in Applied Physics
+    institution: Beihang University
+    year: 2022
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -59,5 +60,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students 
+- Master Students 
 ---
