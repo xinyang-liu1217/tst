@@ -22,7 +22,7 @@ bio:
 
 # List each interest with a dash
 interests:
-- Quantum Magnets
+- Correlated Electrons
 
 education:
   courses:
