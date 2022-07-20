@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Ph.D. student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: Beihang University
+- name: UCAS & ITP
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +29,10 @@ education:
   - course: B.S. in Physics
     institution: Capital Normal University
     year: 2017
-
+  - course: Ph.D. in Physics
+    institution: Beihang University
+    year: 2022
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -54,5 +57,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students 
+- Postdoc
 ---
