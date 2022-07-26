@@ -19,6 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
+Post-doc of ITP,CAS. Mainly study on the numerical simulation of strongly correlated electron systems and new algorithms on quantum many-body physics, especially the tensor-network algorithms on frustrated spin systems and quasi-1D systems.
 
 # List each interest with a dash
 interests: 
