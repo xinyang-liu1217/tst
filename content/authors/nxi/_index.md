@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Han Li"
+title: "Ning Xi"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Hli"
+- Name "Nxi"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: UCAS & ITP
+- name: Institute of Theoretical Physics, Chinese Academy of Sciences
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,12 +26,12 @@ interests:
 
 education:
   courses:
-  - course: B.S. in Physics
-    institution: Capital Normal University
-    year: 2017
   - course: Ph.D. in Physics
-    institution: Beihang University
+    institution: Renmin University of China
     year: 2022
+  - course: B.S. in Optical information science and technology
+    institution: Hebei University
+    year: 2016
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,10 +40,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:horee@buaa.edu.cn'  # For a direct email link, use "mailto:horee@buaa.edu.cn".
+  link: 'mailto:xining@itp.ac.cn'  # For a direct email link, use "mailto:xining@itp.ac.cn".
 - icon: github 
   icon_pack: fab 
-  link: https://github.com/horee515
+  link: https://ceilingxi.github.io/
 #
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -52,7 +52,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "xining@itp.ac.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
