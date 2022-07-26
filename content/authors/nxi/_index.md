@@ -23,7 +23,9 @@ bio:
 
 # List each interest with a dash
 interests: 
-- Quantum Magnets
+-Numerical study on strongly correlated electron systems
+-Theoretical analysis of novel experiments
+-Developing new algorithms on quantum many-body physics
 
 education:
   courses:
