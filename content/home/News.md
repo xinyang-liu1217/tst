@@ -75,14 +75,11 @@ subtitle = ""
 
 + Our work "Spin supersolidity in nearly ideal easy-axis triangular quantum antiferromagnet Na<sub>2</sub>BaCo(PO<sub>4</sub>)<sub>2</sub>" is published in [**npj Quantum Materials** **7**, 89 (2022)](https://doi.org/10.1038/s41535-022-00500-3), 10-Sep-2022.
 
-+ Congratulations to Han Li for being awarded the fellowship of 2022 China National Postdoctoral Program for Innovative Talents. Grant No. BX20220291.
++ Congratulations to Han Li for being awarded the fellowship of 2022 China National Postdoctoral Program for Innovative Talents (全国博新计划). Grant No. BX20220291.
 
 + Congratulations to Junsen Wang for the support from the Fundamental Research Funds for the Central Universities.
 
 + Our work "Exciton Proliferation and Fate of the Topological Mott Insulator in a Twisted Bilayer Graphene Lattice Model"is published in [**Phys. Rev. Lett** **128**, 157201](https://doi.org/10.1103/PhysRevLett.128.157201), 12-Apr-2022.
-
-+ Our work "Detecting confined and deconfined spinons in dynamical quantum simulations" is published in
-[**Phys. Rev. Research** **4**, 013193](https://doi.org/10.1103/PhysRevResearch.4.013193), 11-Mar-2022.
 
 + Our work "Realization of topological Mott insulator in a twisted bilayer graphene lattice model" is published in [**Nature Communications  12**, 5480 (2021)](https://www.nature.com/articles/s41467-021-25438-1) , 16-Sep-2021. 
 
