@@ -67,11 +67,11 @@ subtitle = ""
 
 +++
 
-+ Our work "Quantum spin liquid candidate as superior refrigerant in cascade demagnetization cooling" is published in [**Communications Physics** **5**, 233(2022)](https://doi.org/10.1038/s42005-022-01010-1), 22-Sep-2022.
++ Our work "Quantum spin liquid candidate as superior refrigerant in cascade demagnetization cooling" is published in [**Communications Physics** **5**, 233 (2022)](https://doi.org/10.1038/s42005-022-01010-1), 22-Sep-2022.
 
 + Our work "Quantum spin liquid with emergent chiral order in the triangular-lattice Hubbard model" is published in [**Phys. Rev. B** **106**, 094420](https://doi.org/10.1103/PhysRevB.106.094420), 16-Sep-2022.
 
-+ Our work "Spin supersolidity in nearly ideal easy-axis triangular quantum antiferromagnet Na2BaCo(PO4)2" is published in [**npj Quantum Materials** **7**, 89(2022)](https://doi.org/10.1038/s41535-022-00500-3), 10-Sep-2022.
++ Our work "Spin supersolidity in nearly ideal easy-axis triangular quantum antiferromagnet Na2BaCo(PO4)2" is published in [**npj Quantum Materials** **7**, 89 (2022)](https://doi.org/10.1038/s41535-022-00500-3), 10-Sep-2022.
 
 + Our work "Exciton Proliferation and Fate of the Topological Mott Insulator in a Twisted Bilayer Graphene Lattice Model"is published in [**Phys. Rev. Lett** **128**, 157201](https://doi.org/10.1103/PhysRevLett.128.157201), 12-Apr-2022.
 
