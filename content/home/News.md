@@ -76,21 +76,17 @@ subtitle = ""
 + Our work "Exciton Proliferation and Fate of the Topological Mott Insulator in a Twisted Bilayer Graphene Lattice Model"is published in [**Phys. Rev. Lett** **128**, 157201](https://doi.org/10.1103/PhysRevLett.128.157201), 12-Apr-2022.
 
 + Our work "Detecting confined and deconfined spinons in dynamical quantum simulations" is published in
-[Phys. Rev. Research **4**, 013193](https://doi.org/10.1103/PhysRevResearch.4.013193), 11-Mar-2022.
+[**Phys. Rev. Research** **4**, 013193](https://doi.org/10.1103/PhysRevResearch.4.013193), 11-Mar-2022.
 
 + Our work "Realization of topological Mott insulator in a twisted bilayer graphene lattice model" is published in [**Nature Communications  12**, 5480 (2021)](https://www.nature.com/articles/s41467-021-25438-1) , 16-Sep-2021. 
-
-+ 祝贺李涵同学获得北航2021年度 [“研究生十佳”](https://mp.weixin.qq.com/s/EuV1v28eALKo0QIPRHbNhg).
 
 + Our work "Learning the Effective Spin Hamiltonian of a Quantum Magnet" is published in
 [Chin. Phys. Lett **38**, 097502](http://cpl.iphy.ac.cn/10.1088/0256-307X/38/9/097502), 27-Aug-2021.
 Our code implementation in PyTorch is publicly available at this [GitHub repo](https://github.com/TensorBFS/dTRG).
 
-
 +  Our work "Identification of magnetic interactions and high-field quantum spin liquid in α-RuCl<sub>3</sub>" is published in [**Nature Communications  12**, 4007 (2021)](https://www.nature.com/articles/s41467-021-24257-8) , 29-Jun-2021.
- 
-+  Our work "Kondo Holes in the Two-Dimensional Itinerant Ising Ferromagnet Fe3GeTe2"is published in [Nano Lett. 2021, 21, 14, 6117–6123](https://doi.org/10.1021/acs.nanolett.1c01661), 19-Jul-2021.
- 
+
+
 + Our work "Symmetry-Protected Topological Edge Modes and Emergent Partial Time-Reversal Symmetry Breaking in Open Quantum Many-Body Systems"is published in [**Phys. Rev. Lett** **126**, 237201](https://doi.org/10.1103/PhysRevLett.126.237201), 9-Jun-2021.
 
 + Our work "Evidence of the Berezinskii-Kosterlitz-Thouless phase in a frustrated magnet" is published in [**Nature Communications  11**, 5631 (2020)](https://www.nature.com/articles/s41467-020-19380-x) , 06-Nov-2020, and also selected as [Editor's Highlight](https://www.nature.com/collections/rcdhyvxytb/content/wei-fan) !
