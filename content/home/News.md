@@ -67,6 +67,10 @@ subtitle = ""
 
 +++
 
++ Congratulations to Han Li for being awarded the fellowship of 2022 China National Postdoctoral Program for Innovative Talents. Grant No. BX20220291.
+
++ Congratulations to Junsen Wang for the support the Fundamental Research Funds for the Central Universities.
+
 + Our work "Quantum spin liquid candidate as superior refrigerant in cascade demagnetization cooling" is published in [**Communications Physics** **5**, 233 (2022)](https://doi.org/10.1038/s42005-022-01010-1), 22-Sep-2022.
 
 + Our work "Quantum spin liquid with emergent chiral order in the triangular-lattice Hubbard model" is published in [**Phys. Rev. B** **106**, 094420](https://doi.org/10.1103/PhysRevB.106.094420), 16-Sep-2022.

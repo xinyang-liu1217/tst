@@ -77,6 +77,8 @@ Strong interactions among atomic particles can lead to  materials, such as some 
 
 ## Projects:
 
-- Non-abelian symmetry and tensor networks, NSFC Junior Project: 11504014, 2016.01-2018.12
-- Quantum Manybody Computation Methods and Applications, NSFC Key Project: 11834014, 2019.01-2022.12
-- Thermal Tensor Networks for Frustrated Quantum Magnets, NSFC General Project: 11974036, 2020.01-2023.12
+- Non-abelian symmetry and tensor networks, NSFC Junior Project: 11504014
+- Quantum Manybody Computation Methods and Applications, NSFC Key Project: 11834014
+- Thermal Tensor Networks for Frustrated Quantum Magnets, NSFC General Project: 11974036
+- Quantum Many-body Theory and Computation, NSFC Excellent Youngth Project: 12222412
+- CAS Project for Young Scientists in Basic Research (Grant No.~YSBR-057)
