@@ -1,5 +1,5 @@
 ---
-title: "Spin supersolidity in nearly ideal easy-axis triangular quantum antiferromagnet Na2BaCo(PO4)2"
+title: "Spin supersolidity in nearly ideal easy-axis triangular quantum antiferromagnet Na<sub>2</sub>BaCo(PO<sub>4</sub>)<sub>2</sub>"
 date: 2022-09-10
 publishDate: 2022-09-10T12:46:56.123112Z
 authors: ["Yuan Gao", "Yu-Chen Fan", "Han Li", "Fan Yang", "Xu-Tao Zeng", "Xian-Lei Sheng", "Ruidan Zhong", "Yang Qi", "Yuan Wan", "Wei Li"]
