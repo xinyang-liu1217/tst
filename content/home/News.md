@@ -69,6 +69,8 @@ subtitle = ""
 
 + We are very happy to announce that Dr. Han Li has been awarded the Postdoctoral Fellowship in the Kavli Institute for Theoretical Sciences!
 
++ Our work "Spin-triplet pairing induced by near-neighbor attraction in the extended Hubbard model for cuprate chain" is published in [**Communications Physics** **5**, 257 (2022)](https://doi.org/10.1038/s42005-022-01030-x), 21-Oct-2022.
+
 + Our work "Quantum spin liquid candidate as superior refrigerant in cascade demagnetization cooling" is published in [**Communications Physics** **5**, 233 (2022)](https://doi.org/10.1038/s42005-022-01010-1), 22-Sep-2022.
 
 + 祝贺李乔依，刘鑫阳获得2022[硕士国家奖学金](http://physics.buaa.edu.cn/info/1045/5744.htm)！
