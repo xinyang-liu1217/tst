@@ -28,7 +28,10 @@ education:
   courses:
   - course: High School
     institution: The High School Affiliated to Renmin University of China
-    year: 2012
+    year: 2017
+  - course: B.S. in Applied Physics
+    institution: Beihang University
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
