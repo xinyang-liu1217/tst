@@ -67,7 +67,7 @@ subtitle = ""
 
 +++
 
-+ We are very happy to announce that Dr. Han Li has been awarded the Postdoctoral Fellowship in the Kavli Institute for Theoretical Sciences!
++ We are very happy to announce that Dr. Han Li has been awarded the KITS fellowship for postdoctoral researchers!
 
 + Our work "Spin-triplet pairing induced by near-neighbor attraction in the extended Hubbard model for cuprate chain" is published in [**Communications Physics** **5**, 257 (2022)](https://doi.org/10.1038/s42005-022-01030-x), 21-Oct-2022.
 
