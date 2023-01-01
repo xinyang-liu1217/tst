@@ -1,5 +1,5 @@
 ---
-title: "Spin-ordered ground state and thermodynamic behaviors of the spin-$\frac{3}{2}$ kagome Heisenberg antiferromagnet"
+title: "Spin-ordered ground state and thermodynamic behaviors of the spin-3/2 kagome Heisenberg antiferromagnet"
 date: 2016-09-13
 publishDate: 2016-09-13T12:46:56.123112Z
 authors: [Liu, Tao and Li, Wei and Su, Gang]
@@ -15,7 +15,7 @@ of the susceptibility and specific heat. At low temperatures, the specific heat 
 and the susceptibility approaches a finite constant as T → 0. Our TN results of thermodynamic properties are
 compared with those from high-temperature series expansion. In addition, we disclose a quantum phase transition
 between q = 0 state (i.e., the state with 120◦ spin configuration within a unit cell containing three sites) and √
-3 × √3 state in a spin-3/2 kagome XXZ model at the critical point 􏰁c = 0.54. This study provides reliable and useful information for further explorations on high-spin kagome physics."
+3 × √3 state in a spin-3/2 kagome XXZ model at the critical point \Deltac = 0.54. This study provides reliable and useful information for further explorations on high-spin kagome physics."
 featured: False
 publication: "Phys. Rev. E"
 doi: "10.1103/PhysRevE.94.032114"
