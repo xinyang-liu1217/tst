@@ -67,6 +67,8 @@ subtitle = ""
 
 +++
 
++ Our work "High-field quantum spin liquid transitions and angle-field phase diagram of the Kitaev magnet  α−RuCl<sub>3</sub>" is published in [**Phys. Rev. B** **107**, 115124](https://doi.org/10.1103/PhysRevB.107.115124), 10-Mar-2023.
+
 + We are very happy to announce that Dr. Han Li has been awarded the KITS fellowship for postdoctoral researchers!
 
 + Our work "Spin-triplet pairing induced by near-neighbor attraction in the extended Hubbard model for cuprate chain" is published in [**Communications Physics** **5**, 257 (2022)](https://doi.org/10.1038/s42005-022-01030-x), 21-Oct-2022.
