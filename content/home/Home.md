@@ -64,7 +64,7 @@ Strong interactions among atomic particles can lead to  materials, such as some 
 
 ***
 
-<img align='right' src='/img/KeyImage.png' width='300' hspace='24' />
+<img align='right' src='/img/KeyImageE.png' width='300' hspace='24' />
 
 ## Research:
 + Quantum Many-body Theory and Computations
