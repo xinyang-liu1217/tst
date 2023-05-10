@@ -81,4 +81,4 @@ Strong interactions among atomic particles can lead to  materials, such as some 
 - Quantum Manybody Computation Methods and Applications, NSFC Key Project: 11834014
 - Thermal Tensor Networks for Frustrated Quantum Magnets, NSFC General Project: 11974036
 - Quantum Many-body Theory and Computation, NSFC Excellent Youngth Project: 12222412
-- CAS Project for Young Scientists in Basic Research (Grant No.~YSBR-057)
+- CAS Project for Young Scientists in Basic Research (Grant No. YSBR-057)
