@@ -67,7 +67,7 @@ subtitle = ""
 
 +++
 
-+ Our work “Tangent Space Approach for Thermal Tensor Network Simulations of the 2D Hubbard Model” is published in [Phys. Rev. Lett. 130, 226502](https://doi.org/10.1103/PhysRevLett.130.226502), 01-June-2023, and also highlighted as PRL Editors' suggestion.
++ Our work “Tangent Space Approach for Thermal Tensor Network Simulations of the 2D Hubbard Model” is published in [**Phys. Rev. Lett**. **130**, **226502**](https://doi.org/10.1103/PhysRevLett.130.226502), 01-June-2023, and also highlighted as PRL Editors' suggestion.
 
 + Our work "High-field quantum spin liquid transitions and angle-field phase diagram of the Kitaev magnet  α−RuCl<sub>3</sub>" is published in [**Phys. Rev. B** **107**, 115124](https://doi.org/10.1103/PhysRevB.107.115124), 10-Mar-2023.
 
