@@ -7,7 +7,7 @@ authors:
 - Name "Jxgao"
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Bachelor Student
@@ -50,5 +50,5 @@ email: "20191008@buaa.edu.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Bachelor Students 
+- Undergraduate Students 
 ---
