@@ -58,7 +58,7 @@ subtitle = "Welcome to CQM<sup>2</sup> Group!"
 <!--- <br/><br/><br/><br/><br/><br/><br/><br/> --->
 <!--- <p/> --->
 
-<img align='right' src='/img/group.png' width='300' hspace='24' />
+<img align='right' src='/img/group' width='300' hspace='24' />
 
 Strong interactions among atomic particles can lead to  materials, such as some high-temperature superconductors, with unusual electronic and magnetic properties. Our research group at [ITP](http://itp.cas.cn) and [BeihangU](https://www.buaa.edu.cn) is focusing on **emergent many-body physics** and **ultra quantum states of matter** due to the intriguing interplay between correlation and topology. We aim to develop quantum many-body simulation techniques, e.g., **tensor networks**, **renormalization group**, and **deep learning techniques**, that provide reliable and accurate numerical access to thermal and dynamical properties of correlated systems. With state-of-the-art methods, we explore novel states of matter and reveal underlying manybody theory, in correlated materials that could possibily lead to intriguing applications in future quantum technology.
 
