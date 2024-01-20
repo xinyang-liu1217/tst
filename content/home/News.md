@@ -67,6 +67,9 @@ subtitle = ""
 
 +++
 
++ Our work “Giant magnetocaloric effect in spin supersolid candidate Na_2BaCo(PO_4)_2” is published in [**Nature** **625**, 270–275 (2024)](https://doi.org/10.1038/s41586-023-06885-w), 10-Jan-2024.
+
+
 + Our work “Plaquette Singlet Transition, Magnetic Barocaloric Effect, and Spin Supersolidity in the Shastry-Sutherland Model” is published in [**Phys. Rev. Lett**. **131**, **116702**](https://link.aps.org/doi/10.1103/PhysRevLett.131.116702), 14-Sep-2023.
 
 + Our work "Possible intermediate quantum spin liquid phase in α-RuCl<sub>3</sub> under high magnetic fields up to 100 T" is published in [**Nature  Communications  14**, 5613 (2023)](https://doi.org/10.1038/s41467-023-41232-7) , 12-Sep-2023.
