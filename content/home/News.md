@@ -69,6 +69,9 @@ subtitle = ""
 
 + Our work “Giant magnetocaloric effect in spin supersolid candidate Na_2BaCo(PO_4)_2” is published in [**Nature** **625**, 270–275 (2024)](https://doi.org/10.1038/s41586-023-06885-w), 10-Jan-2024.
 
++ Our work “Bilayer t-J-J⊥ Model and Magnetically Mediated Pairing in the Pressurized Nickelate La3Ni2O7” is published in [**Phys. Rev. Lett**. **132**, **036502**](https://link.aps.org/doi/10.1103/PhysRevLett.132.036502), 19-Jan-2024.
+
++ Our work "A one-third magnetization plateau phase as evidence for the Kitaev interaction in a honeycomb-lattice antiferromagnet" is published in [**Nature Physics  10**, 1038 (2023)](https://www.nature.com/articles/s41567-023-02212-2) , 25-Sep-2023.
 
 + Our work “Plaquette Singlet Transition, Magnetic Barocaloric Effect, and Spin Supersolidity in the Shastry-Sutherland Model” is published in [**Phys. Rev. Lett**. **131**, **116702**](https://link.aps.org/doi/10.1103/PhysRevLett.131.116702), 14-Sep-2023.
 
