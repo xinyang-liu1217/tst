@@ -67,15 +67,15 @@ subtitle = ""
 
 +++
 
-+ Our work “Giant magnetocaloric effect in spin supersolid candidate Na<sub>2</sub>BaCo(PO<sub>4</sub>)<sub>2</sub>” is published in [**Nature** **625**, 270–275 (2024)](https://doi.org/10.1038/s41586-023-06885-w), 10-Jan-2024.
++ Our work “Giant magnetocaloric effect in spin supersolid candidate Na<sub>2</sub>BaCo(PO<sub>4</sub>)<sub>2</sub>” is published in [**Nature** **625**, **270–275 (2024)**](https://doi.org/10.1038/s41586-023-06885-w), 10-Jan-2024.
 
 + Our work “Bilayer t-J-J⊥ Model and Magnetically Mediated Pairing in the Pressurized Nickelate La<sub>3</sub>Ni<sub>2</sub>O<sub>7</sub>” is published in [**Phys. Rev. Lett**. **132**, **036502**](https://link.aps.org/doi/10.1103/PhysRevLett.132.036502), 19-Jan-2024.
 
-+ Our work "A one-third magnetization plateau phase as evidence for the Kitaev interaction in a honeycomb-lattice antiferromagnet" is published in [**Nature Physics  10**, 1038 (2023)](https://www.nature.com/articles/s41567-023-02212-2) , 25-Sep-2023.
++ Our work "A one-third magnetization plateau phase as evidence for the Kitaev interaction in a honeycomb-lattice antiferromagnet" is published in [**Nature Physics  10**, **1038 (2023)**](https://www.nature.com/articles/s41567-023-02212-2) , 25-Sep-2023.
 
 + Our work “Plaquette Singlet Transition, Magnetic Barocaloric Effect, and Spin Supersolidity in the Shastry-Sutherland Model” is published in [**Phys. Rev. Lett**. **131**, **116702**](https://link.aps.org/doi/10.1103/PhysRevLett.131.116702), 14-Sep-2023.
 
-+ Our work "Possible intermediate quantum spin liquid phase in α-RuCl<sub>3</sub> under high magnetic fields up to 100 T" is published in [**Nature  Communications  14**, 5613 (2023)](https://doi.org/10.1038/s41467-023-41232-7) , 12-Sep-2023.
++ Our work "Possible intermediate quantum spin liquid phase in α-RuCl<sub>3</sub> under high magnetic fields up to 100 T" is published in [**Nature  Communications  14**, **5613 (2023)**](https://doi.org/10.1038/s41467-023-41232-7) , 12-Sep-2023.
 
 + Our work “Tangent Space Approach for Thermal Tensor Network Simulations of the 2D Hubbard Model” is published in [**Phys. Rev. Lett**. **130**, **226502**](https://doi.org/10.1103/PhysRevLett.130.226502), 01-June-2023, and also highlighted as PRL Editors' suggestion.
 
