@@ -1,5 +1,5 @@
 ---
-title: "Orbital-selective superconductivity in the pressurized bilayer nickelate ${\mathrm{La}}_{3}{\mathrm{Ni}}_{2}{\mathrm{O}}_{7}$: An infinite projected entangled-pair state study"
+title: "Orbital-selective superconductivity in the pressurized bilayer nickelate La3Ni2O7: An infinite projected entangled-pair state study"
 date: 2024-07-08
 publishDate: 2024-07-08T22:57:34.824003Z
 authors: ["Jialin Chen", "Fan Yang",  "Wei Li"]
