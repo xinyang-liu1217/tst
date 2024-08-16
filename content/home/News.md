@@ -67,7 +67,7 @@ subtitle = ""
 
 +++
 
-+ Our work “Magnetocaloric effect of topological excitations in Kitaev magnets” is published in [**Nat Commun 15**, **7011 (2024)**](https://doi.org/10.1038/s41467-024-51146-7), 15-Aus-2024.
++ Our work “Magnetocaloric effect of topological excitations in Kitaev magnets” is published in [**Nature Communications 15**, **7011 (2024)**](https://doi.org/10.1038/s41467-024-51146-7), 15-Aug-2024.
 
 + Our work “Orbital-selective superconductivity in the pressurized bilayer nickelate La<sub>3</sub>Ni<sub>2</sub>O<sub>7</sub>: An infinite projected entangled-pair state study ” is published in [**Phys. Rev. B 110, L041111**](https://doi.org/10.1103/PhysRevB.110.L041111), 8-Jul-2024.
 
