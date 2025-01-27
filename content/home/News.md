@@ -67,6 +67,8 @@ subtitle = ""
 
 +++
 
++ Our work “Phase Diagram, d-Wave Superconductivity, and Pseudogap of the t-t'-J Model at Finite Temperature” is published in [**Phys. Rev. Lett. 133, 256003**]( https://doi.org/10.1103/PhysRevLett.133.256003), 19-Dec-2024.
+
 + Our work “Double magnon-roton excitations in the triangular-lattice spin supersolid” is published in [**Phys. Rev. B 110, 214408**]( https://doi.org/10.1103/PhysRevB.110.214408), 4-Dec-2024.
 
 + Our work “Magnetocaloric effect of topological excitations in Kitaev magnets” is published in [**Nature Communications 15**, **7011 (2024)**](https://doi.org/10.1038/s41467-024-51146-7), 15-Aug-2024.
