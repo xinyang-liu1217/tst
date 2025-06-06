@@ -67,7 +67,7 @@ subtitle = ""
 
 +++
 
-+ Our work "Giant magnetocaloric effect in spin supersolid candidate Na<sub>2</sub>BaCo(PO<sub>4</sub>)<sub>2</sub> [**Nature** **625**, **270–275 (2024)**](https://doi.org/10.1038/s41586-023-06885-w)" and "Bilayer t-J-J⊥ Model and Magnetically Mediated Pairing in the Pressurized Nickelate La<sub>3</sub>Ni<sub>2</sub>O<sub>7</sub> [**Phys. Rev. Lett**. **132**, **036502**](https://link.aps.org/doi/10.1103/PhysRevLett.132.036502)" are selected as Essential Science Indicators (ESI) highly cited papers.
++ Our work "Giant magnetocaloric effect in spin supersolid candidate Na<sub>2</sub>BaCo(PO<sub>4</sub>)<sub>2</sub>'' [**Nature** **625**, **270–275 (2024)**](https://doi.org/10.1038/s41586-023-06885-w) and "Bilayer t-J-J⊥ Model and Magnetically Mediated Pairing in the Pressurized Nickelate La<sub>3</sub>Ni<sub>2</sub>O<sub>7</sub>'' [**Phys. Rev. Lett**. **132**, **036502**](https://link.aps.org/doi/10.1103/PhysRevLett.132.036502) are selected as Essential Science Indicators (ESI) highly cited papers.
 
 + 自旋超固体与极低温制冷工作入选中国科学十大进展和两院院士评选的中国科技十大进展新闻.
 
