@@ -67,6 +67,8 @@ subtitle = ""
 
 +++
 
++ Our work “Spin Seebeck Effect of Triangular Lattice Spin Supersolid” is published in [**Phys. Rev. Lett. 135, 236504**](https://doi.org/10.1103/t25p-x319), 5-Dec-2025.
+
 + Our work “Quantum supercritical regime with universal magnetocaloric scaling in Ising magnets” is published in [**Nature Communications 16**, **10646 (2025)**](https://doi.org/10.1038/s41467-025-65651-w), 27-Nov-2025.
 
 + Our work "Giant magnetocaloric effect in spin supersolid candidate Na<sub>2</sub>BaCo(PO<sub>4</sub>)<sub>2</sub>'' [**Nature** **625**, **270–275 (2024)**](https://doi.org/10.1038/s41586-023-06885-w) and "Bilayer t-J-J⊥ Model and Magnetically Mediated Pairing in the Pressurized Nickelate La<sub>3</sub>Ni<sub>2</sub>O<sub>7</sub>'' [**Phys. Rev. Lett**. **132**, **036502**](https://link.aps.org/doi/10.1103/PhysRevLett.132.036502) are selected as Essential Science Indicators (ESI) highly cited papers.
