@@ -67,6 +67,8 @@ subtitle = ""
 
 +++
 
++ Our work “Magnon damping as a probe of Kondo coupling in magnetically ordered systems” is published in [**Nature Communications 17**, **3557 (2026)**](https://doi.org/10.1038/s41467-026-70241-5), 6-Mar-2026.
+
 + Our work “Spin Seebeck Effect of Triangular Lattice Spin Supersolid” is published in [**Phys. Rev. Lett. 135, 236504**](https://doi.org/10.1103/t25p-x319), 5-Dec-2025.
 
 + Our work “Quantum supercritical regime with universal magnetocaloric scaling in Ising magnets” is published in [**Nature Communications 16**, **10646 (2025)**](https://doi.org/10.1038/s41467-025-65651-w), 27-Nov-2025.
