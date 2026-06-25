@@ -1,0 +1,12 @@
+---
+title: "Giant magnetocaloric effect and spin supersolid in a metallic dipolar magnet"
+date: 2026-02-11
+publishDate:  2026-02-11
+authors: ["Mingfang Shu", "Xitong Xu", "Ning Xi", "Miao He", "Junsen Xiang", "Gexing Qu", "Dmitry Khalyavin", "Pascal Manuel", "Jumpei G. Nakamura", "Jinlong Jiao", "Yonglai Liu", "Guoliang Wu", "Kaizhen Guo", "Haitian Zhao", "Wei Xu", "Qingchen Duan", "Ruidan Zhong", "Xinqing Wang", "Yuyan Han", "Langsheng Ling", "Xuefeng Sun", "Dongsheng Song", "Yuan Gao", "Zhentao Wang", "Xi Chen", "Tian Qian", "Shuang Jia", "Haifeng Du", "Gang Su", "Wei Li", "Jie Ma", "Zhe Qu"]
+publication_types: ["2"]
+abstract: "The spin supersolid---a magnetic analogue of the supersolid that simultaneously exhibits solid and superfluid orders---has emerged as a promising sub-Kelvin refrigerant with strong low-energy fluctuations and associated entropic effects1. However, the stringent prerequisites have so far confined its presence to certain magnetic insulators. Here we report the discovery of a metallic spin supersolid in a rare-earth compound EuCo2Al9 (ECA), which is a good metal with excellent electrical and thermal conductivity. The high-spin Eu2+ ions form a three-dimensional lattice with stacked triangular layers, in which the spin-supersolid state is stabilized through a mechanism involving both Ruderman--Kittel--Kasuya--Yosida (RKKY) and dipolar couplings. Neutron diffraction shows microscopic evidence of spin supersolidity, demonstrating the coexistence of out-of-plane and in-plane spin orders in this alloy. Our RKKY--dipolar model successfully captures the metallic spin-supersolid Y and V phases in ECA, along with the 1/3 magnetization plateau. The observed nonclassical magnetization behaviours within these phases point to significant quantum fluctuations, probably enhanced by the conduction electrons. The resistivity measurements provide a transport probe for the spin-supersolid transitions, because of scattering of conduction electrons from local moments. Through the adiabatic demagnetization process, ECA achieves ultralow cooling to 106{\thinspace}mK, exhibiting a giant magnetocaloric effect that manifests sharp anomalies in the magnetic Gr{\"u}neisen ratio. ECA emerges as one of the first metallic spin supersolids, combining low cooling temperature, large magnetic entropy and ultrahigh thermal conductivity for high-performance sub-Kelvin refrigeration."
+featured: true
+publication: "*Nature*"
+url_pdf: "https://doi.org/10.1038/s41586-026-10144-z"
+doi: "https://doi.org/10.1038/s41586-026-10144-z"
+---
