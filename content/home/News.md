@@ -67,7 +67,7 @@ subtitle = ""
 
 +++
 
-+ Our work “Ising Supercriticality and Universal Magnetocalorics in Spiral Antiferromagnet Nd<sub>3</sub>BWO<sub>9</sub>” is published in [**Phys. Rev. Lett. 136, 246502**](https://doi.org/10.1103/nqcw-pz8v), 17-Jun-2025, and also highlighted as PRL Editors' suggestion.
++ Our work “Ising Supercriticality and Universal Magnetocalorics in Spiral Antiferromagnet Nd<sub>3</sub>BWO<sub>9</sub>” is published in [**Phys. Rev. Lett. 136, 246502**](https://doi.org/10.1103/nqcw-pz8v), 17-Jun-2026, and also highlighted as PRL Editors' suggestion.
 
 + Our work “Magnon damping as a probe of Kondo coupling in magnetically ordered systems” is published in [**Nature Communications 17**, **3557 (2026)**](https://doi.org/10.1038/s41467-026-70241-5), 6-Mar-2026.
 
