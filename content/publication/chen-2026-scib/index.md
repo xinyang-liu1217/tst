@@ -10,4 +10,6 @@ publication: "*Science Bulletin* **71**, 1034-1042 (2026)"
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S2095927326000150/pdfft"
 doi: "10.1016/j.scib.2026.01.014"
 math: true
+image:
+  fit: true
 ---

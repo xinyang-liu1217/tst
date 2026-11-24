@@ -9,4 +9,6 @@ featured: true
 publication: "*Reports on Progress in Physics* 89, 098003"
 url_pdf: "https://iopscience.iop.org/article/10.1088/1361-6633/ae9cdc/pdf"
 doi: "https://doi.org/10.1088/1361-6633/ae9cdc"
+image:
+  fit: true
 ---
