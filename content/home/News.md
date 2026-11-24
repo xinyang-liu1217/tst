@@ -67,11 +67,17 @@ subtitle = ""
 
 +++
 
++ Our work “Measuring universal magnetocaloric scaling functions near quantum critical point” is published in [**Reports on Progress in Physics 89**, **098003 (2026)**](https://doi.org/10.1088/1361-6633/ae9cdc), 9-Sep-2026.
+
++ Our work “Universally diverging Grüneisen ratio of holographic quantum criticality” is published in [**Reports on Progress in Physics 89**, **098001 (2026)**](https://doi.org/10.1088/1361-6633/ae9b43), 1-Sep-2026.
+
 + Our work “Ising Supercriticality and Universal Magnetocalorics in Spiral Antiferromagnet Nd<sub>3</sub>BWO<sub>9</sub>” is published in [**Phys. Rev. Lett. 136, 246502**](https://doi.org/10.1103/nqcw-pz8v), 17-Jun-2026, and also highlighted as PRL Editors' suggestion.
 
 + Our work “Magnon damping as a probe of Kondo coupling in magnetically ordered systems” is published in [**Nature Communications 17**, **3557 (2026)**](https://doi.org/10.1038/s41467-026-70241-5), 6-Mar-2026.
 
 + Our work “Giant magnetocaloric effect and spin supersolid in a metallic dipolar magnet” is published in [**Nature** **651**, **61–67 (2026)**](https://doi.org/10.1038/s41586-026-10144-z), 11-Feb-2026.
+
++ Our work “Fractional Chern insulator and quantum anomalous Hall crystal in twisted MoTe<sub>2</sub>” is published in [**Science Bulletin 71**, **1034–1042 (2026)**](https://doi.org/10.1016/j.scib.2026.01.014), 13-Jan-2026.
 
 + Our work “Spin Seebeck Effect of Triangular Lattice Spin Supersolid” is published in [**Phys. Rev. Lett. 135, 236504**](https://doi.org/10.1103/t25p-x319), 5-Dec-2025.
 
